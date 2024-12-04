@@ -72,7 +72,7 @@ A logistics and delivery tracking app designed to simplify package management.
 🔗 Portfolio: [ferzdev.vercel.app](https://ferzdev.vercel.app/)  
 💼 LinkedIn: [linkedin.com/in/ferdjani-ziad-4775a7191/](https://www.linkedin.com/in/ferdjani-ziad-4775a7191/)  
 🐙 GitHub: [github.com/Ziad1258](https://github.com/Ziad1258)  
-📄 **[Download My CV](https://drive.google.com/file/d/1H4ReIXZtRpa3-lko_Q_timdbGCRnnXyV/view?usp=sharing)**  
+📄 **[Download My CV](https://drive.google.com/file/d/1f7rT0yBPE6ls69SsJLQcF9R_VSfx7CsN/view?usp=sharing)**  
 
 ---
 
