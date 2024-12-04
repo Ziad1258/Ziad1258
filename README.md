@@ -1,15 +1,16 @@
 # 🌟 Ferdjani Ziad  
 
-**✨ Front-End Developer | React & Next.js Enthusiast ✨**
+**✨ Front-End Developer | React & Next.js Specialist ✨**
 
 ---
 
 ### 👋 About Me  
-Hi, I'm **Ferdjani Ziad**, a passionate Front-End Developer from Algeria. I specialize in building modern, responsive web applications with a focus on exceptional user experience and performance. With a strong background in React and Next.js, I bring ideas to life with clean and maintainable code.
+Hi, I'm **Ferdjani Ziad**, a passionate Front-End Developer from Algeria. I specialize in building modern, responsive web applications with a focus on exceptional user experience and performance. With a strong background in React and Next.js, I deliver high-quality, scalable solutions.
 
 ---
 
 ### 🛠️ Skills & Tools  
+
 - **Languages & Frameworks:**  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) 
@@ -22,23 +23,52 @@ Hi, I'm **Ferdjani Ziad**, a passionate Front-End Developer from Algeria. I spec
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
   ![NPM](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white) 
   ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)  
+  ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white)  
 
 ---
 
-### 🚀 Projects  
-Here are a few of the projects I've worked on:  
+### 🚀 Featured Projects  
 
-- **[Alhaseb](https://alhaseb.vercel.app/):**  
-  A multilingual web app for high school students to calculate their academic average.  
-  🛠️ *Tech Stack:* React, Tailwind CSS  
+#### **[Alhaseb](https://alhaseb.vercel.app/)**  
+A multilingual web application designed to help high school students calculate their academic average.  
+- 🌐 *Languages:* Arabic, French, and English.  
+- 💻 *Features:* Accurate grade calculation with customizable fields, responsive design for all screen sizes.  
+- 🛠️ *Tech Stack:* React, Tailwind CSS.  
 
-- **[Salatify](https://salatify-eight.vercel.app/):**  
-  A web app providing prayer times, countdowns, and Islamic resources.  
-  🛠️ *Tech Stack:* React, Next.js, Tailwind CSS  
+---
 
-- **[Souf Academy](https://souf-academy.vercel.app/):**  
-  A responsive website for an educational academy with light/dark mode and dynamic features.  
-  🛠️ *Tech Stack:* React, Tailwind CSS  
+#### **[Salatify](https://salatify-eight.vercel.app/)**  
+An Islamic resources app providing prayer times, countdowns, and Sunnah books.  
+- 🌍 *Features:*  
+  - Automatic detection of user location for prayer times.  
+  - Real-time countdown to the next prayer.  
+  - A library of Sunnah books in English and Arabic.  
+- 🛠️ *Tech Stack:* React, Next.js, Tailwind CSS.  
+
+---
+
+#### **[Souf Academy](https://souf-academy.vercel.app/)**  
+A website for a private educational school with advanced design features.  
+- 🎨 *Features:*  
+  - Dynamic sections with custom styling.  
+  - Light and dark mode functionality.  
+  - Interactive navigation bar with dynamic behavior during scrolling.  
+- 🛠️ *Tech Stack:* React, Tailwind CSS.  
+
+---
+
+#### **[ZedExpress](https://zedexpress.netlify.app/)**  
+A logistics and delivery tracking app designed to simplify package management.  
+- 🚛 *Features:*  
+  - Track packages in real-time with dynamic updates.  
+  - User-friendly admin dashboard for managing deliveries.  
+  - Interactive map integration for location tracking.  
+- 🛠️ *Tech Stack:* React, Next.js, Tailwind CSS, Google Maps API.  
+
+---
+
+### 📄 Download My CV  
+[📄 Click Here to Download My CV](https://drive.google.com/file/d/1H4ReIXZtRpa3-lko_Q_timdbGCRnnXyV/view?usp=sharing)  
 
 ---
 
@@ -51,5 +81,4 @@ Here are a few of the projects I've worked on:
 ---
 
 ### 🌱 Fun Fact  
-I’m always eager to learn new web technologies and improve my skill set. Let’s build something amazing together! 🌟  
-
+I’m always eager to explore and adopt the latest web technologies. Let’s collaborate and build something amazing together! 🌟  
